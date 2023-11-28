@@ -48,7 +48,6 @@ class Karyawan {
         this.golongan = golongan;
     }
 }
-
 // Class Manager yang merupakan subclass dari Karyawan
 class Manager extends Karyawan {
     private int kehadiran;
