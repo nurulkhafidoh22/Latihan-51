@@ -1,5 +1,14 @@
 import java.util.Scanner;
 
+/**
+ *
+ * @author ACER
+ *NAMA              : Nurul Khafidoh
+ *KELAS             : PBO RegPagi
+ *NIM               : 22166012
+ *DESKRIPSI PROGRAM : Program Latihan 51
+ */
+
 // Class Karyawan
 class Karyawan {
     private String nik;
